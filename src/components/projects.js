@@ -1,14 +1,14 @@
 import React from "react";
-import "../stylesheets/projects.css";
+import "../stylesheets/Projects.css";
 
-class projects extends React.Component{
+class Projects extends React.Component{
     render(){
         return (
             <div className="projects">
-                
+
             </div>
         );
     }
 }
 
-export default projects;
+export default Projects;

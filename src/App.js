@@ -1,15 +1,15 @@
 import React from "react";
-import intro from "./components/intro";
-import footer from "./components/footer";
+import Intro from "./components/Intro";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <div id="content">
-        <intro />
+        <Intro />
       </div>
-      <footer />
+      <Footer />
     </div>
   );
 }

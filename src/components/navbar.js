@@ -1,7 +1,7 @@
 import React from "react";
-import "../stylesheets/navbar.css";
+import "../stylesheets/Navbar.css";
 
-class navbar extends React.Component{
+class Navbar extends React.Component{
     render(){
         const links = [
             <a href="#intro">/intro</a>,
@@ -20,4 +20,4 @@ class navbar extends React.Component{
     }
 }
 
-export default navbar;
+export default Navbar;

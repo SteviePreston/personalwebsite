@@ -1,11 +1,11 @@
 import React from "react";
-import "../stylesheets/footer.css";
+import "../stylesheets/Footer.css";
 
 import EmailIcon from '@mui/icons-material/Email';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
-class footer extends React.Component{
+class Footer extends React.Component{
   
       render() {
         return (
@@ -29,4 +29,4 @@ class footer extends React.Component{
       }
     }
 
-export default footer;
+export default Footer;

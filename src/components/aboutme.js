@@ -1,14 +1,14 @@
 import React from "react";
-import "../stylesheets/aboutme.css";
+import "../stylesheets/Aboutme.css";
 
-class aboutme extends React.Component{
+class Aboutme extends React.Component{
     render(){
         return(
             <div className="aboutme">
-                
+
             </div>
         );
     }
 }
 
-export default aboutme;
+export default Aboutme;

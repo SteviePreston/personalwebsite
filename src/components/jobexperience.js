@@ -1,14 +1,14 @@
 import React from "react";
-import "../stylesheets/jobexperience.css";
+import "../stylesheets/Jobexperience.css";
 
-class jobexperience extends React.Component{
+class Jobexperience extends React.Component{
     render() {
         return (
             <div className="jobs">
-                
+
             </div>
         );
     }
 }
 
-export default jobexperience;
+export default Jobexperience;

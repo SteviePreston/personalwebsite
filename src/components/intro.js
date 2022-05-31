@@ -1,9 +1,9 @@
 import React from "react";
-import "../stylesheets/intro.css";
+import "../stylesheets/Intro.css";
 
 import EmailIcon from '@mui/icons-material/Email';
 
-class intro extends React.Component{
+class Intro extends React.Component{
      
       render() {
         return (
@@ -15,7 +15,7 @@ class intro extends React.Component{
               </span>
               <div className="intro-subtitle">I like to learn through programming.</div>
               <div className="intro-desc">
-                I'm a software engineer based in Belfast. I have
+                I'm a student software engineer based in Belfast. I have
                 interest in deep learning, web applications,
                 cyber security, and everything in between.
               </div>
@@ -32,4 +32,4 @@ class intro extends React.Component{
     }
 
 
-export default intro;
+export default Intro;
