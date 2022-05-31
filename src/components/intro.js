@@ -19,13 +19,15 @@ class Intro extends React.Component{
                 interest in deep learning, web applications,
                 cyber security, and everything in between.
               </div>
-              <a
-                href="mailto:stevenpreston2014@gmail.com"
-                className="intro-contact"
-              >
-                <EmailIcon></EmailIcon>
-                {"  " + "Email Me!"}
-              </a>
+             <button>
+                <a
+                    href="mailto:stevenpreston2014@gmail.com"
+                    className="intro-contact"
+                >
+                    <EmailIcon></EmailIcon>
+                    {"  " + "Email Me!"}
+                </a>
+              </button>
           </div>
         );
       }
