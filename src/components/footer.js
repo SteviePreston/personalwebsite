@@ -10,9 +10,6 @@ class Footer extends React.Component{
       render() {
         return (
             <div className="footer-text">
-                <p>
-                    Made with ♥ by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a>
-                </p>
                 <div className="footer-logos">
                 <a href="mailto:stevenpreston2014@gmail.com">
                     <EmailIcon style={{ fontSize: 20 }}></EmailIcon>
@@ -24,6 +21,9 @@ class Footer extends React.Component{
                     <LinkedInIcon style={{ fontSize: 20 }}></LinkedInIcon>
                 </a>
                 </div>
+                <p>
+                    Made with ♥ by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a>
+                </p>
             </div>
         );
       }
