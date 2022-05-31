@@ -11,7 +11,7 @@ class footer extends React.Component{
         return (
             <div className="footer-text">
                 <p>
-                    Made & designed by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a> with ♥
+                    Made and designed by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a> with ♥
                 </p>
                 <div className="footer-logos">
                 <a href="mailto:stevenpreston2014@gmail.com">
