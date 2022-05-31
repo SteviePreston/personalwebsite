@@ -1,11 +1,20 @@
 .footer-text{
     color:black;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
 }
 
 .footer-name{
-    color:black;
+    color: var(--green-bright);
+    font-weight: bold;
+    font-size: 20px;
+    position: left;
 }
 
 .footer-logos{
     color: black;
+    margin-left: 80%;
+    margin-top: 15px;
+
 }

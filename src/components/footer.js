@@ -11,17 +11,17 @@ class Footer extends React.Component{
         return (
             <div className="footer-text">
                 <p>
-                    Made and designed by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a> with ♥
+                    Made with ♥ by <a href="mailto:stevenpreston2014@gmail.com"><span className="footer-name">Stevie</span></a>
                 </p>
                 <div className="footer-logos">
                 <a href="mailto:stevenpreston2014@gmail.com">
                     <EmailIcon style={{ fontSize: 20 }}></EmailIcon>
                 </a>
                 <a href="https://github.com/SteviePreston">
-                    <GitHubIcon style={{ fontSize: 19 }}></GitHubIcon>
+                    <GitHubIcon style={{ fontSize: 20 }}></GitHubIcon>
                 </a>
                 <a href="https://www.linkedin.com/in/steviep-ai/">
-                    <LinkedInIcon style={{ fontSize: 21 }}></LinkedInIcon>
+                    <LinkedInIcon style={{ fontSize: 20 }}></LinkedInIcon>
                 </a>
                 </div>
             </div>
