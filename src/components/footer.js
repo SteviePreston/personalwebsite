@@ -1,9 +1,9 @@
 import React from "react";
 import "../stylesheets/footer.css";
 
-import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import GitHubIcon from "@material-ui/icons/GitHub";
+import EmailIcon from '@mui/icons-material/Email';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 class footer extends React.Component{
   
@@ -15,7 +15,7 @@ class footer extends React.Component{
                 </p>
                 <div className="footer-logos">
                 <a href="mailto:stevenpreston2014@gmail.com">
-                    <EmailRoundedIcon style={{ fontSize: 20 }}></EmailRoundedIcon>
+                    <EmailIcon style={{ fontSize: 20 }}></EmailIcon>
                 </a>
                 <a href="https://github.com/SteviePreston">
                     <GitHubIcon style={{ fontSize: 19 }}></GitHubIcon>

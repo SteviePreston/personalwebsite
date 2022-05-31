@@ -1,7 +1,7 @@
 import React from "react";
 import "../stylesheets/intro.css";
 
-import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
+import EmailIcon from '@mui/icons-material/Email';
 
 class intro extends React.Component{
      
@@ -23,7 +23,7 @@ class intro extends React.Component{
                 href="mailto:stevenpreston2014@gmail.com"
                 className="intro-contact"
               >
-                <EmailRoundedIcon></EmailRoundedIcon>
+                <EmailIcon></EmailIcon>
                 {"  " + "Email Me!"}
               </a>
           </div>
