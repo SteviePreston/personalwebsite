@@ -1,8 +1,11 @@
-.sidebar-logos {
-    padding-top: 42px;
-    width: 70px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-bottom: 8px;
-  }
+.footer-text{
+    color:black;
+}
+
+.footer-name{
+    color:black;
+}
+
+.footer-logos{
+    color: black;
+}
