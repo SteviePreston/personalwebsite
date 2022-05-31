@@ -1,3 +1,23 @@
-canvas {
-    width: 200px !important;
-  }
+#intro{
+    color: black;
+}
+
+.intro-title{
+    color: black;
+}
+
+.intro-name{
+    color: black;
+}
+
+.intro-subtitle{
+    color: black;
+}
+
+.intro-desc{
+    color: black;
+}
+
+.intro-contact{
+    color: black;
+}
