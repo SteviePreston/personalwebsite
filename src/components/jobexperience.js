@@ -2,7 +2,23 @@ import React from "react";
 import "../stylesheets/Jobexperience.css";
 
 class Jobexperience extends React.Component{
-    render() {
+
+            JobList = () => {
+            const classes = useStyles();
+            const [value, setValue] = React.useState(0);
+          
+            const experienceItems = {
+              "BT": {
+                jobTitle: "Software Engineering Placement",
+                duration: "SEP 2021 - AUG 2022",
+                desc: [
+                  "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
+                  "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
+                  "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Git, VI & RHEL VM."
+                ]
+              }
+            };
+
         return (
             <div className="jobs">
 
