@@ -14,7 +14,7 @@ class Jobexperience extends React.Component{
                 desc: [
                   "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
                   "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
-                  "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Git, VI & RHEL VM."
+                  "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Oracle Golden Gate, Git, VI & RHEL."
                 ]
               }
             };
