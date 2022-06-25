@@ -1,6 +1,7 @@
 import React from "react";
 import "../stylesheets/Projects.css";
 
+//? TODO: Add detials of projects and implement 3 x 2 flex box
 class Projects extends React.Component{
     ProjectList = () => {
         const classes = useStyles();
