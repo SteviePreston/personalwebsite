@@ -12,8 +12,8 @@ class Projects extends React.Component{
             projectSubTitle: "Thistle",
             techStack: "Java, JavaScript, JSP, SQL",
             desc: [
-              "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
-              "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
+              "Thistle is the payments frontend project which connects to Buynet to handle payments using customer details.",
+              "Thistle encrypts senstive customer details and stores the encrypted details in the database.",
               "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Git, VI & RHEL VM."
             ]
           },
@@ -21,7 +21,7 @@ class Projects extends React.Component{
             projectSubTitle: "Buynet",
             techStack: "Java",
             desc: [
-              "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
+              "Buynet handles all payments, It contacts the merchant & banks to handle payments. It handles a range of transaction types.",
               "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
               "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Git, VI & RHEL VM."
             ]
