@@ -9,8 +9,8 @@ class Projects extends React.Component{
       
         const projectItems = {
           "BT": {
-            projectSubTitle: "Software Engineering Placement",
-            techStack: "Python",
+            projectSubTitle: "Thistle",
+            techStack: "Java, JavaScript, JSP, SQL",
             desc: [
               "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
               "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
@@ -18,8 +18,8 @@ class Projects extends React.Component{
             ]
           },
           "BT": {
-            projectSubTitle: "Software Engineering Placement",
-            techStack: "Python",
+            projectSubTitle: "Buynet",
+            techStack: "Java",
             desc: [
               "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
               "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
@@ -27,8 +27,8 @@ class Projects extends React.Component{
             ]
           },
           "BT": {
-            projectSubTitle: "Software Engineering Placement",
-            techStack: "Python",
+            projectSubTitle: "Batch Payment Interface",
+            techStack: "Java",
             desc: [
               "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
               "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
