@@ -28,11 +28,11 @@ class Projects extends React.Component{
           },
           "BT": {
             projectSubTitle: "Batch Payment Interface",
-            techStack: "Java",
+            techStack: "Java, Bash, Unix",
             desc: [
-              "Developed within the BT secure payments team under BT's subteam 'ETC.' as part of the Digital space.",
-              "Worked in a plethora of areas within the project: Frontend (thistle), Backend (Buynet) & CLI Tools (Batch Payment Interface) ",
-              "Relevant technologies/tools used: WLS, SuperPutty, Postman, Citrix, SQL Plus, Oracle SQL Developer, Git, VI & RHEL VM."
+              "Developed and implemented a feature which aided the application support team by dynamically allocating run numbers.",
+              "Using Junit tests, I was enable to ensure the feature was working correctly, in both the database and the in the input file. ",
+              "This feature removed manual input and worked towards making the whole solution autonomous, removing all manual input."
             ]
           },
           "BT": {
